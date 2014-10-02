@@ -8,14 +8,14 @@ de la Iglesia D, García-Remesal M, Anguita A, Muñoz-Mármol M, Kulikowski C, M
 
 CONTENT:
 
-/unigrams: Input data, models and results to conduct the CT experiments with unigrams.
-/bigrams: Input data, models and results to conduct the CT experiments with bigrams.
+      /unigrams: Input data, models and results to conduct the CT experiments with unigrams.
+      /bigrams: Input data, models and results to conduct the CT experiments with bigrams.
 
-Each one of the abovementioned folders contain the following subfolders:
+      Each one of the abovementioned folders contain the following subfolders:
 
-/binary: Data to conduct the experiments using a binary representation of the documents
+      /binary: Data to conduct the experiments using a binary representation of the documents
 
-/frequencies: Data to conduct the experiments using a frequency-based representation of the documents
+      /frequencies: Data to conduct the experiments using a frequency-based representation of the documents
 
 /idf: Data to conduct the experiments using an Inverse Document Frequency-based epresentation of the documents
 
