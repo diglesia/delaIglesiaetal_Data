@@ -4,6 +4,7 @@ delaIglesiaetal_Data
 Corpora and datasets for reproducing the experiments with clinical trial summaries.
 
 Please, when using this work, cite it as follows:
+
 de la Iglesia D, García-Remesal M, Anguita A, Muñoz-Mármol M, Kulikowski C, Maojo V. “A machine learning approach to identify clinical trials involving nanodrugs and nanodevices from ClinicalTrials.gov”. PLoS ONE 2014. DOI:10.1371/journal.pone.0110331.
 
 CONTENT:
