@@ -12,7 +12,7 @@ CONTENT:
       /unigrams: Input data, models and results to conduct the CT experiments with unigrams.
       /bigrams: Input data, models and results to conduct the CT experiments with bigrams.
 
-      Each one of the abovementioned folders contain the following subfolders:
+      Each one of the abovementioned folders contains the following subfolders:
 
       /binary: Data to conduct the experiments using a binary representation of the documents
       /frequencies: Data to conduct the experiments using a frequency-based representation of the documents
@@ -23,7 +23,7 @@ CONTENT:
       /norm_idf: Data to conduct the experiments using a Inverse Document Frequency-based representation of the documents with normalization
       /norm_tfidf: Data to conduct the experiments using a Term Frequency*Inverse Document Frequency-based representation with normalization
 
-      Each subfolder contain three parts:
+      Each subfolder contains three parts:
       
             /cv_splits: splits for cross-validation experiments
                   /10-fold: splits for 10-fold cross-validation
