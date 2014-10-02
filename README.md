@@ -24,6 +24,7 @@ CONTENT:
       /norm_tfidf: Data to conduct the experiments using a Term Frequency*Inverse Document Frequency-based representation with normalization
 
       Each subfolder contain three parts:
+      
             /cv_splits: splits for cross-validation experiments
                   /10-fold: splits for 10-fold cross-validation
                   /loo: splits for leave-one-out cross-validation
