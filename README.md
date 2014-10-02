@@ -9,7 +9,6 @@ de la Iglesia D, García-Remesal M, Anguita A, Muñoz-Mármol M, Kulikowski C, M
 CONTENT:
 
 /unigrams: Input data, models and results to conduct the CT experiments with unigrams.
-
 /bigrams: Input data, models and results to conduct the CT experiments with bigrams.
 
 Each one of the abovementioned folders contain the following subfolders:
